@@ -1,0 +1,13 @@
+{
+    "wait": "```「⏳」Shori```",
+    "error": {
+        "Iv": "*[❗] Shitei shita rinku ga mukōdesu*",
+        "api": "*[❗] ErA*"
+    },
+    "OnlyGrup": "*[❗] Sumimasen, Perintah Ini Hanya Bisa Digunakan Di Grup*",
+    "OnlyPM": "*[❗] Sumimasen, Perintah Ini Hanya Bisa Digunakan Di Pesan Pribadi*",
+    "GrupAdmin": "*[❗] Sumimasen, Perintah Ini Hanya Bisa Digunakan Oleh Admin Grup*",
+    "BotAdmin": "*[❗] Sumimasen, Bot Harus Menjadi Admin*",
+    "OnlyOwner": "*[❗] Sumimasen, Perintah Ini Hanya Dapat Digunakan Oleh Pemilik Bot*",
+    "OnlyPrem": "*[❗] Sumimasen, Perintah Ini Khusus Pengguna Premium*"
+}

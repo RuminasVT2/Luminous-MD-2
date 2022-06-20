@@ -1,0 +1,15 @@
+{
+    "ownerNumber": ["6281347927862@s.whatsapp.net","6282253479547@s.whatsapp.net"],
+    "ownerName": "⇱AkyraCans",
+    "instagram" : "https://chat.whatsapp.com/CXh8962GOxK6cwDwLjlABw",
+    "botName": "⌬ Hatsune Miku",
+    "footer": "WhatsApp BOT-MD",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
