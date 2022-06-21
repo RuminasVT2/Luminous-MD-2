@@ -36,6 +36,9 @@ exports.allMenu = (ucapanWaktu, pushname, mundur, upload, download, ownerName, b
 *Run Time*
 ${runtime(process.uptime())}
 
+Bot Ke-2
+wa.me/6282253479547
+
 ╭┅┅━━━━━━━━━━━━┅┅╾
 ┣━━━━⎔ *MAIN MENU*
 ┇  ${prefix}menu
